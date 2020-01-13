@@ -83,8 +83,8 @@
 // something = 2;
 // console.log(something)
 
-console.log(something)
-var something = 2;
+// console.log(something)
+// var something = 2;
 
 // switch(userInput) {
 //   case 'js-1': {
